@@ -3,12 +3,12 @@
 export const bangs = [
   {
     c: "AI",
-    d: "www.t3.chat",
+    d: "www.chat.com",
     r: 0,
-    s: "T3 Chat",
+    s: "Chatgpt Chat",
     sc: "AI",
-    t: "t3",
-    u: "https://www.t3.chat/new?q={{{s}}}",
+    t: "ch",
+    u: "https://chat.openai.com/?q={{{s}}}",
   },
   {
     c: "Tech",
@@ -17025,15 +17025,6 @@ export const bangs = [
     sc: "Online",
     t: "chatters",
     u: "https://chatters.ca/catalogsearch/result/?q={{{s}}}",
-  },
-  {
-    c: "Research",
-    d: "chequeado.com",
-    r: 7,
-    s: "Chequeado",
-    sc: "Government",
-    t: "ch",
-    u: "http://chequeado.com/?s={{{s}}}",
   },
   {
     c: "Entertainment",
@@ -41217,7 +41208,7 @@ export const bangs = [
     s: "Google",
     sc: "Google",
     t: "g",
-    u: "https://www.google.com/search?q={{{s}}}",
+    u: "https://www.google.com/search?q={{{s}}}&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIJCAEQABgNGIAEMgkIAhAAGA0YgAQyCQgDEAAYDRiABDIJCAQQABgNGIAEMgkIBRAAGA0YgAQyCQgGEAAYDRiABDIJCAcQABgNGIAEMgkICBAAGA0YgAQyCQgJEAAYDRiABNIBCTE0NDM4ajBqN6gCALACAA&sourceid=chrome&ie=UTF-8",
   },
   {
     c: "Online Services",
